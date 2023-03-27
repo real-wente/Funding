@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73a9af9b-ea78-4ebf-8e8e-c34612c0c4c0" name="变更" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.InterF">
+  <component name="RunManager" selected="应用程序.Test">
     <configuration name="InterF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterF" />
       <module name="Funding" />
@@ -58,8 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Funding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.InterF" />
         <item itemvalue="应用程序.Lambda" />
       </list>
@@ -74,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679641069495</updated>
       <workItem from="1679641070868" duration="3864000" />
-      <workItem from="1679646099202" duration="3547000" />
+      <workItem from="1679646099202" duration="3561000" />
+      <workItem from="1679894586870" duration="4995000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1679645797590</created>
@@ -90,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679645921899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final">
+      <created>1679651566982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679651566982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
