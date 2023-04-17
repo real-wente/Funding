@@ -14,6 +14,9 @@ public class StringOne {
         System.out.println(builder);
         builder.insert(4,"four");
         System.out.println(builder);
+        /**
+         * delete删除索引位置a,b之间的内容但是不包括b的值
+         */
         builder.delete(4,5);
         System.out.println(builder);
     }

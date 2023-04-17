@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73a9af9b-ea78-4ebf-8e8e-c34612c0c4c0" name="变更" comment="final">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guide/StringOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ListLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guide/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guide/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +106,7 @@
       <workItem from="1679646099202" duration="3561000" />
       <workItem from="1679894586870" duration="7391000" />
       <workItem from="1680073679231" duration="4260000" />
-      <workItem from="1681711905422" duration="1027000" />
+      <workItem from="1681711905422" duration="1382000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1679645797590</created>
@@ -140,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679907452363</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final">
+      <created>1681716487977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681716487977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
