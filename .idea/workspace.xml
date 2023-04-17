@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73a9af9b-ea78-4ebf-8e8e-c34612c0c4c0" name="变更" comment="final">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/StringOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListLinked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,14 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Test">
+  <component name="RunManager" selected="应用程序.StringOne">
+    <configuration name="Dyanmic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dyanmic" />
+      <module name="Funding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InterF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterF" />
       <module name="Funding" />
@@ -58,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guide.StringOne" />
+      <module name="Funding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Funding" />
@@ -67,6 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StringOne" />
+        <item itemvalue="应用程序.Dyanmic" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.InterF" />
         <item itemvalue="应用程序.Lambda" />
@@ -83,7 +108,9 @@
       <updated>1679641069495</updated>
       <workItem from="1679641070868" duration="3864000" />
       <workItem from="1679646099202" duration="3561000" />
-      <workItem from="1679894586870" duration="4995000" />
+      <workItem from="1679894586870" duration="7391000" />
+      <workItem from="1680073679231" duration="4260000" />
+      <workItem from="1681711905422" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1679645797590</created>
@@ -106,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679651566982</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final">
+      <created>1679907452363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679907452363</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -3,6 +3,7 @@ import java.util.LinkedList;
 /**
  * @author wentao
  * @date 2023/3/27 14:45
+ * 队列
  */
 
 public class ListLinked {
